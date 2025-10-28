@@ -9,7 +9,7 @@ This plugin enables you to:
 
 ## What is XPlanung24
 
-**XPlanung24** is a web-based platform by [Bau.Land.XPlan GbR](https://www.xplanung24.de) for the centralized management, visualization, and collaborative editing of municipal zoning, land-use, and regional plans in the **XPlanung** format.  
+**XPlanung24** is a web-based platform by [Bau.Land.XPlan eGbR](https://www.xplanung24.de) for the centralized management, visualization, and collaborative editing of municipal zoning, land-use, and regional plans in the **XPlanung** format.  
 
 The platform offers features such as:
 - upload, validation, and visualization of **XPlanGML** files,  
