@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/plugins/xplanung24" >
+        <file>assets/a1.png</file>
+        <file>assets/a2.png</file>
+        <file>assets/a3.png</file>
+        <file>assets/a4.png</file>
+	<file>assets/a5.png</file>
+    </qresource>
+</RCC>

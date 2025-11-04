@@ -1,0 +1,56 @@
+[general]
+name=XPlanung24 - XPLAN QGIS Plugin
+qgisMinimumVersion=3.26
+supportsQt6=True
+description=XPLAN Viewer
+version=1.0.0
+author=Bau.Land.XPlan GbR
+email=admin@xplanung24.de
+
+about = 
+   DEUTSCH:
+      Dieses Plugin ermöglicht Ihnen:
+         - die konforme Darstellung von Bauleit-, Flächennutzungs- sowie Raumordnungsplänen im Standard XPlanung,
+         - die Übersetzung und Visualisierung von Flächenangaben, Festsetzungen und textlichen Abschnitten,
+         - die sichere Verwaltung und den kollaborativen Zugriff auf Planunterlagen über die Plattform XPlanung24.
+
+      Was ist XPlanung24:
+         XPlanung24 ist eine webbasierte Plattform der Bau.Land.XPlan GbR zur zentralen Verwaltung, Darstellung und kollaborativen Bearbeitung von kommunalen Bauleit-, Flächennutzungs- und Regionalplänen im XPlanung-Format. 
+         Die Entwicklung wird durch das Land Nordrhein-Westfalen gefördert.
+
+      Was ist XPlanung:
+         XPlanung ist ein bundesweiter Standard für den digitalen Austausch von Bauleit-, Flächennutzungs- und Raumordnungsplänen in Deutschland. 
+         Er basiert auf XML/GML (XPlanGML) und stellt sicher, dass Planinformationen verlustfrei zwischen Systemen ausgetauscht werden können.
+
+
+   ENGLISH:
+      This plugin enables you to:
+         - Display zoning, land-use, and regional plans in compliance with the XPlanung standard,
+         - Translate and visualize spatial data, regulations, and textual plan elements,
+         - Securely manage and collaboratively access planning documents via the XPlanung24 platform.
+
+      What is XPlanung24:
+         XPlanung24 is a web-based platform developed by Bau.Land.XPlan GbR for the centralized management, visualization, and collaborative editing of municipal zoning, land-use, and regional plans in the XPlanung format.
+         The development of the platform is supported by the state of North Rhine-Westphalia.
+
+      What is XPlanung:
+         XPlanung is a nationwide German standard for the digital exchange of zoning, land-use, and spatial planning data.
+         It is based on XML/GML (XPlanGML) and ensures that planning information can be transferred between systems without loss of content or structure.
+
+tracker=https://github.com/Bau-Land-XPlanung/XPLANUNG24-QGIS-Plugin/issues
+repository=https://github.com/Bau-Land-XPlanung/XPLANUNG24-QGIS-Plugin
+
+changelog=v1.0.0:
+   - Mapping und Visualisierung von über 200 XPlan Stylesheet-IDs 
+   - Abruf von XPlanGML-Dateien aus XPlanung24
+   - Unterstützung von Raumordnungsplänen
+
+homepage=https://www.xplanung24.de
+tags=xplanung24,gml,xplan,xplanung,bp,bebauungsplan,fnp,flächennutzungsplan,rp,Raumordnungspläne,bplan,xplan-gml,
+category=Web
+icon=assets/icon.png
+experimental=False
+deprecated=False
+server=False
+preview=assets/img/screenshot_main.png
+screenshots=assets/img/screenshot_main.png, assets/img/screenshot_legend.png
